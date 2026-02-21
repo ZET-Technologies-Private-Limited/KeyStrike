@@ -7,8 +7,14 @@ import { QuoteSection } from '@/components/quote-section';
 import { Footer } from '@/components/footer';
 
 export const metadata = {
-  title: 'KeyStrike - Speed Typing Challenge',
-  description: 'Test your typing speed with KeyStrike. No signup needed. Free forever.',
+  title: 'Typing Speed Test Online - KeyStrike',
+  description: 'Typing speed test online with AI finger guide, learn typing online lessons, and free WPM test practice.',
+  keywords: [
+    'typing speed test',
+    'learn typing online',
+    'typing practice with fingers',
+    'wpm test free',
+  ],
 };
 
 export default function Home() {

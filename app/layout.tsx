@@ -9,7 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   metadataBase: new URL('https://keystrike.vercel.app'),
   title: 'KeyStrike - Typing Speed Test & Learning Platform',
-  description: 'Improve typing speed with real-time WPM tracking, accuracy analytics, and guided practice modes on KeyStrike.',
+  description: 'Improve typing speed with AI finger guide, real-time WPM, and practice modes on KeyStrike.',
   keywords: [
     'typing speed test',
     'learn typing online',
@@ -24,7 +24,7 @@ export const metadata: Metadata = {
   },
   openGraph: {
     title: 'KeyStrike - Typing Speed Test & Learning Platform',
-    description: 'Improve typing speed with real-time WPM tracking, accuracy analytics, and guided practice modes.',
+    description: 'Improve typing speed with AI finger guide, real-time WPM, and practice modes.',
     url: 'https://keystrike.vercel.app',
     siteName: 'KeyStrike',
     locale: 'en_US',
@@ -33,7 +33,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'KeyStrike - Typing Speed Test & Learning Platform',
-    description: 'Improve typing speed with real-time WPM tracking and guided practice modes.',
+    description: 'Improve typing speed with AI finger guide, real-time WPM, and practice modes.',
   },
   icons: {
     icon: [
